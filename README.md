@@ -1,3 +1,5 @@
+https://colab.research.google.com/drive/1nC6tiIMXUxgr9UrEP3UhGrTn0zM1OW8F#scrollTo=liZlitWJ6bat
+
 # 📢 Orientações da Prova
 
 **Conforme conversado na sexta-feira, dia 04/09**, seguem as orientações para a avaliação.
